@@ -1,3 +1,12 @@
+import Vue from 'vue'
+import Vuex from 'vuex'
+import VueAxios from 'vue-axios'
+import { VueAuthenticate } from 'vue-authenticate'
+import axios from 'axios';
+
+Vue.use(Vuex)
+Vue.use(VueAxios, axios)
+
 export const auth = new VueAuthenticate(Vue.prototype.$http, {
   baseUrl: 'http://localhost:8081',
   providers: {
@@ -8,8 +17,8 @@ export const auth = new VueAuthenticate(Vue.prototype.$http, {
   }
 })
 
-export default new Vuex.Store({
-  
+export const store = new Vuex.Store({
+
   // You can use it as state property
   state: {
     isAuthenticated: false

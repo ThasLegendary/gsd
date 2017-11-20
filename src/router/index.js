@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import LoginPage from '@/components/LoginPage'
+import Login from '@/components/Auth/Login'
+import Callback from '@/components/Auth/Callback'
 
 Vue.use(Router)
 
@@ -8,13 +9,13 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'LoginPage',
-      component: LoginPage
+      name: 'Login',
+      component: Login
     },
     {
       path: '/auth/callback',
-      name: 'AuthCallbak',
-      component: LoginPage
+      name: 'Callback',
+      component: Callback
     }
   ]
 })

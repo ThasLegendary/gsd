@@ -9,7 +9,7 @@
 
         <ul>
             <li>                
-                <img class="logo" @click="authenticate('github')" src="../assets/octocat.png" border="0" />
+                <img class="logo" @click="authenticate()" src="../../assets/octocat.png" border="0" />
             </li>
         </ul>
 
@@ -19,13 +19,14 @@
 </template>
 
 <script>
+
 export default {
-  name: 'LoginPage',
+  name: 'Login',
   methods: {
-    authenticate: function (provider) {
-      this.$auth.authenticate(provider).then(function () {
-        // Execute application logic after successful social authentication
-      })
+    authenticate: function () {
+        console.log(this.$githubAuth);
+      var uri = this.$githubAuth.code.getUri();
+      open(uri);
     }
   }
 }
