@@ -1,0 +1,738 @@
+{
+	"at": 2,
+	"cur": [
+		"USD"
+	],
+	"device": {
+		"geo": {
+			"country": "us"
+		},
+		"ip": "172.24.48.138",
+		"language": "zh-CN,zh;q=0.9,en;q=0.8",
+		"os": "mac os x",
+		"ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+	},
+	"id": "10-171213-dbg2-1511177084000610008",
+	"imp": [
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "1_2-1-19272845",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 4,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 125,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -1
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "1_2-1-19272846",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 2,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 35,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/tremor-js",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": 0
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "1_2-2-19272845",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 4,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 125,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -1
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "2_3-1-19272845",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 8,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 180,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -1
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "2_3-2-19272845",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 8,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 180,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -1
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "3_3-1-19272845",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 12,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 180,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -1
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "3_3-2-19272845",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 12,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 180,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -1
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "4_2-1-19272845",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 15,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 180,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -1
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "4_2-2-19272845",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 15,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 180,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -1
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "6_2-1-19272844",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 18,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 30,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/tremor-js",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -2
+			}
+		},
+		{
+			"ext": {
+				"bstickycat": [
+					3,
+					25,
+					65
+				]
+			},
+			"id": "6_2-2-19272844",
+			"secure": 1,
+			"video": {
+				"api": [
+					1,
+					2
+				],
+				"battr": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					13,
+					14
+				],
+				"ext": {
+					"multirollindex": 18,
+					"placement": {
+						"placementid": 19272843,
+						"zones": [
+							1217057,
+							1217073,
+							1217153
+						]
+					}
+				},
+				"linearity": 1,
+				"maxduration": 30,
+				"mimes": [
+					"application/javascript",
+					"application/x-mpegURL",
+					"application/xml",
+					"external/tremor-js",
+					"external/truex",
+					"null/null",
+					"text/html",
+					"text/javascript",
+					"video/3gpp",
+					"video/m4v",
+					"video/mov",
+					"video/mp4",
+					"video/quicktime"
+				],
+				"minduration": 1,
+				"protocols": [
+					2,
+					5
+				],
+				"startdelay": -2
+			}
+		}
+	],
+	"test": 0,
+	"user": {}
+}
